@@ -11,7 +11,7 @@ public:
     }
     
     // Recursive function with two pointers: start_ptr and end_ptr.
-    void f(const string &s, int start_ptr, int end_ptr, vector<string> curr, vector<vector<string>> &res) {
+    void f(const string &s, int start_ptr, int end_ptr, vector<string> & curr, vector<vector<string>> &res) {
         int n = s.size();
         
         // Base Case: when start_ptr reaches the end, add the current partition.
@@ -33,6 +33,7 @@ public:
             curr.push_back(temp);
             // After partitioning, start new substring from end_ptr.
             f(s, end_ptr, end_ptr + 1, curr, res);
+            curr.pop_back();
         }
     }
     
