@@ -18,7 +18,7 @@ public:
         return true;
     }
 
-    void f(string s, int i, vector<string> curr, vector<vector<string>>& res){
+    void f(string s, int i, vector<string> &curr, vector<vector<string>>& res){
         //Base Case
         int n=s.size();
         if(i==n){
