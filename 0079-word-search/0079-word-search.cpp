@@ -18,11 +18,7 @@ public:
 
         if(word[k]!=board[i][j]) return;
 
-        //Recurrance
-        if(k == l - 1) {
-            res = true;
-            return;
-        }
+     
         //Call function further in all direction if dirn exist
         //mark visited
         visited[i][j]=1;
@@ -31,10 +27,10 @@ public:
             new_i=i+dirn[p][0];
             new_j=j+dirn[p][1];
 
-            if(new_i>=0 && new_i<m && new_j>=0 && new_j<n){
+            
                 f(board,visited,word,k+1,new_i, new_j, res);
                 if(res)return;
-            }
+            
 
         }
         visited[i][j]=0;
