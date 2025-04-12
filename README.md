@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Backtracking
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
