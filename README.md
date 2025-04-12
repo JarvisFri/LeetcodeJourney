@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0131-palindrome-partitioning) |
 ## String
