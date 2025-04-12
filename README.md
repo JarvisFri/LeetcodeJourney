@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
@@ -58,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
