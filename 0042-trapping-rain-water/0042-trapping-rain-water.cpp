@@ -1,25 +1,34 @@
 class Solution {
 public:
-    //Method 1: Calculate Suffix sum of Maximum height at i for right
-    // Traverse from left to right evaluating currMax left height
-    // Take smaller of both and subtract i : if > 0 add to water
+    //Method2: 2Pointer: leftMax, rightMax
+    //Whichever is smaller increment that, left++, right--
+    
     int trap(vector<int>& height) {
+        int leftMax=0,rightMax=0,left=0,right=height.size()-1,ans=0;
+        if(height.size()<=1)return 0;
+        leftMax=height[left];
+        rightMax=height[right];
+        
+        // left++;
+        // right--;
 
-        //Calculating Suffix Sum yet
-        int currMax=INT_MIN, n=height.size(),ans=0;
-        vector<int> suffix_right_max(n,0);
-        for(int i=n-1; i>=0;i--){
-            if(height[i]>currMax) currMax=height[i];
-            suffix_right_max[i]=currMax;
-        }
-
-        currMax=0;
-        for(int i=0; i<(n-1);i++){
-            if(currMax<height[i]) currMax=height[i];
-            if(min(currMax,suffix_right_max[i+1])>height[i]){
-                ans+=min(currMax,suffix_right_max[i+1])-height[i];
+        while(left<=right){
+            if(leftMax<rightMax){
+                if(height[left]>leftMax)
+                    leftMax=height[left];
+                else ans+=leftMax-height[left];
+                left++;
+            }else{
+                if(height[right]>rightMax)
+                    rightMax=height[right];
+                else ans+=rightMax-height[right];
+                right--;
             }
         }
+
         return ans;
+
+       
+        
     }
 };
