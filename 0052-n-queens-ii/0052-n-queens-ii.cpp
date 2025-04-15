@@ -6,7 +6,7 @@ public:
     // check if visited, else mark visited and call for row+1
     //Base: if row=n; ans++; return;
 
-    void f(int n,int row, vector<int> vRow, vector<int> vCol, vector<int> vPosDiag, vector<int> vNegDiag, int &ans){
+    void f(int n,int row, vector<int> &vRow, vector<int> &vCol, vector<int> &vPosDiag, vector<int>& vNegDiag, int &ans){
         //Base Case
         if(row==n){
             ans++;
