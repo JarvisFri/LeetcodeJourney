@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0042-trapping-rain-water) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
 ## Design
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
