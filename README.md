@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0060-permutation-sequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
