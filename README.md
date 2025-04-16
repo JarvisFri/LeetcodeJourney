@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
 ## Binary Search
@@ -96,4 +97,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0037-sudoku-solver) |
+| [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
