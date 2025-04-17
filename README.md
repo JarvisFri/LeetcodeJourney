@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
@@ -117,14 +119,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 ## Combinatorics
 |  |
@@ -134,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0060-permutation-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
