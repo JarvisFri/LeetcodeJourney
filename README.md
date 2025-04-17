@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
+| [0807-custom-sort-string](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0807-custom-sort-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
+| [0807-custom-sort-string](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0807-custom-sort-string) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
+| [0807-custom-sort-string](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0807-custom-sort-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
