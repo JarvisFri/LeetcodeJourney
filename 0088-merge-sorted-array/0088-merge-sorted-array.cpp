@@ -1,27 +1,18 @@
 class Solution {
 public:
-
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int i=0, j=0;
-        while(i<m && j<n){
-            if(nums1[i]<=nums2[j]) i++;
-            else {
-                swap(nums1[i], nums2[j]);
-                i++;
-                
+        //Esmart solution
+        //Take 3 pointers, i=m-1, j=n-1, k=m+n-1;
+        //Now while i && j >=0
+        //Check for last elt of each elt and populate it at k
 
-                while(j+1<n && nums2[j]>nums2[j+1]){
-                    swap(nums2[j],nums2[j+1]);
-                    j++;
-                } 
-                j=0;
-            }
+        int i=m-1, j=n-1, k=m+n-1;
+        while(i>=0 && j>=0){
+            if(nums1[i]>nums2[j]) nums1[k--]=nums1[i--];
+            else nums1[k--]=nums2[j--];
         }
-        // while(i<m) res.push_back(nums1[i]);
-        while( j<n) nums1[i++]=nums2[j++];
-
-   
-        return;
-
+        //If i>0 its already sorted and in nums1 
+        //if j>0
+        while(j>=0) nums1[k--]=nums2[j--];
     }
 };
