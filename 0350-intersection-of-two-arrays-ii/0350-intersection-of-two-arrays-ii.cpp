@@ -1,25 +1,31 @@
 class Solution {
 public:
-    //keep two new freq arrays
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> freq1(1001, 0);
-        vector<int> freq2(1001, 0);
-        vector<int> ans;
-        for(int i=0; i<nums1.size(); i++) freq1[nums1[i]]++;
-        for(int i=0; i<nums2.size(); i++) freq2[nums2[i]]++;
+        sort(nums1.begin(), nums1.end());
+        sort(nums2.begin(), nums2.end());
 
-        int temp;
-        for(int i=0; i<1001; i++){
-            if(freq1[i] && freq2[i]){
-                temp=min(freq1[i],freq2[i]);
-                while(temp){
-                    ans.push_back(i);
-                    temp--;
+        int i=0, j=0;
+        
+        vector<int>ans;
+
+        int n1=nums1.size(), n2=nums2.size(), prev;
+
+        while(i<n1 && j<n2){
+            if(nums1[i]==nums2[j]){
+                while(i<n1 && j<n2 && nums1[i]==nums2[j]){
+                ans.push_back(nums1[i]);
+                i++;
+                j++;
                 }
             }
+            else if(nums1[i]<nums2[j]){
+                prev=nums1[i];
+                while(i<n1 && (nums1[i]==prev)) i++;
+            }else{
+                prev=nums2[j];
+                while(j<n2 && (nums2[j]==prev)) j++;
+            }
         }
-
         return ans;
-        
     }
 };
