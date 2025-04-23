@@ -7,6 +7,8 @@ public:
     // else if 0: j++
     // at any time lets say arr: 1,2,3(i),0,0,0,0,8(j),0,9->i++: 1,2,3,0(i),0,0,0,8(j),0,9->swap:
     // 1,2,3,8(i),0,0,0,0(j),0,9-> j++ 1,2,3,8(i),0,0,0,0,0(j),9
+    // we are swaping only misplaced elt so we are doing minimum swaps possible
+
 
     void moveZeroes(vector<int>& nums) {
         int i=-1, j=0;
@@ -14,7 +16,8 @@ public:
             if(nums[j]==0) j++;
             else{
                 i++;
-                swap(nums[i],nums[j]);
+                if(i!=j)
+                    swap(nums[i],nums[j]);
                 j++;
             }
         }
