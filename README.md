@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
