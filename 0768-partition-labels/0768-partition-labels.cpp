@@ -5,15 +5,15 @@ public:
     //if i==j partition
 
     vector<int> partitionLabels(string s) {
-        vector<vector<int>> freq(26);
+        vector<int> lastIdx(26,-1);
         for( int k=0; k<s.size(); k++){
-            freq[s[k]-'a'].push_back(k);
+            lastIdx[s[k]-'a']=k;
         }
         vector<int> partition;
         int i=0, j=0,prev=0;
         while(i<s.size()){
-            if(j<freq[s[i]-'a'].back())
-            j=freq[s[i]-'a'].back();
+            if(j<lastIdx[s[i]-'a'])
+            j=lastIdx[s[i]-'a'];
             if(i==j) {
                 partition.push_back(i+1-prev);
                 prev= i+1;
