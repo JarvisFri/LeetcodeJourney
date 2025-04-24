@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
+| [0768-partition-labels](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0807-custom-sort-string) |
 | [1483-rank-teams-by-votes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1483-rank-teams-by-votes) |
 ## Dynamic Programming
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0768-partition-labels](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0768-partition-labels) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0807-custom-sort-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
 | [1483-rank-teams-by-votes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1483-rank-teams-by-votes) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0768-partition-labels) |
 ## Sorting
 |  |
 | ------- |
