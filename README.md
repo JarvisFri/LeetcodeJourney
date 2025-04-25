@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0213-house-robber-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
