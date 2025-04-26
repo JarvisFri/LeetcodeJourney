@@ -8,11 +8,10 @@ public:
     //Base negative: currStep>n return
     //Recurrsive
 
-    int f(int currStep, int n, int count, vector<int> & dp){
+    int f(int currStep, int n, vector<int> & dp){
         //Base
         //Positive
         if(currStep==n){
-            // count++;
             return 1;
         }
         //Negative
@@ -25,9 +24,9 @@ public:
 
         //Recurrsive 
         //Take one step
-        int count1=f(currStep+1,n, count,dp);
+        int count1=f(currStep+1,n, dp);
         //Take two step
-        int count2=f(currStep+2,n, count,dp);
+        int count2=f(currStep+2,n, dp);
 
         dp[currStep]=count1+count2;
 
@@ -38,9 +37,16 @@ public:
     }
 
     int climbStairs(int n) {
-        vector<int> dp(n,0);
-        int count=0;
-        return f(0,n,count,dp);
-        // return count;
+        vector<int> dp(n+2,0);
+        //Ways to reach form n-1 to n
+        dp[n]=1;
+        //Ways to reach form n-2 to n
+        dp[n+1]=0;
+        //BottomUp:
+        for(int i=n-1; i>=0; i--){
+            dp[i]=dp[i+2]+dp[i+1];
+        }
+        // return f(0,n,dp);
+        return dp[0];
     }
 };
