@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0213-house-robber-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0213-house-robber-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0357-count-numbers-with-unique-digits) |
