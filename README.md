@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0131-palindrome-partitioning) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0055-jump-game) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
