@@ -12,8 +12,8 @@ public:
         //Base
         //Positive
         if(currStep==n){
-            count++;
-            return count;
+            // count++;
+            return 1;
         }
         //Negative
         if(currStep>n) return 0;
