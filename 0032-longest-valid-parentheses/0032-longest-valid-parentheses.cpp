@@ -16,18 +16,16 @@ public:
 
         dp[0]=0;
         for(int i=1; i<n; i++){
-            if(s[i]=='(')
-                dp[i]=0;
-            else{
-                if((i-dp[i-1]-1)>=0 && s[i-dp[i-1]-1]=='('){
-                    dp[i]+=dp[i-1]+2;
+
+            if(s[i]==')' && (i-dp[i-1]-1)>=0 && s[i-dp[i-1]-1]=='('){
+                dp[i]+=dp[i-1]+2;
                 if((i-dp[i-1]-2)>=0)
                     dp[i]+=dp[i-dp[i-1]-2];
-                }
             }
+            
 
             res=max(res, dp[i]);
-            cout<<dp[i]<<" ";
+            // cout<<dp[i]<<" ";
         }
         
         return res;
