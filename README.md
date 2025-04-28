@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0994-prison-cells-after-n-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0994-prison-cells-after-n-days) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
 | [1483-rank-teams-by-votes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1483-rank-teams-by-votes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0078-subsets) |
+| [0994-prison-cells-after-n-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0994-prison-cells-after-n-days) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
 | [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
+| [0994-prison-cells-after-n-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0994-prison-cells-after-n-days) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 ## Two Pointers
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0807-custom-sort-string) |
+| [0994-prison-cells-after-n-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0994-prison-cells-after-n-days) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
 | [1483-rank-teams-by-votes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1483-rank-teams-by-votes) |
 ## Greedy
