@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0435-non-overlapping-intervals) |
 | [0554-brick-wall](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
+| [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
+| [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 ## Two Pointers
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0807-custom-sort-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
 | [1483-rank-teams-by-votes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1483-rank-teams-by-votes) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
 ## Sorting
 |  |
 | ------- |
