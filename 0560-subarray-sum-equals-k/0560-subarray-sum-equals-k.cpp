@@ -6,7 +6,7 @@ public:
     //Store in hashtable <sum, freq of sum>
     // Do above step for each j
     int subarraySum(vector<int>& nums, int k) {
-        int sumTilli=0, sumTillj=0, count=0, currSum;
+        int sumTilli=0, sumTillj=0, count=0;
 
         unordered_map<int,int> sumFreq;
         sumFreq[0]=1;
@@ -25,7 +25,7 @@ public:
             
             
             sumFreq[sumTillj]++;
-            cout<<sumTillj<<" "<<sumTilli<<" "<<count<<endl;
+            // cout<<sumTillj<<" "<<sumTilli<<" "<<count<<endl;
    
         } 
 
