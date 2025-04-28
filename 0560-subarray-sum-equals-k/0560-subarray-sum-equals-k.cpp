@@ -17,11 +17,9 @@ public:
             sumTillj+=nums[j];
             //Freq till one elt before j
             
-            if(j==0  ) sumTillj==k?count++:0;
-            else{
-                sumTilli=sumTillj-k;
-                count+=sumFreq[sumTilli];
-            }
+            sumTilli=sumTillj-k;
+            if(sumFreq.find(sumTilli)!=sumFreq.end())
+            count+=sumFreq[sumTilli];
             
             
             sumFreq[sumTillj]++;
