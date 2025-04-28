@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0435-non-overlapping-intervals) |
+| [0554-brick-wall](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
+| [0554-brick-wall](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0768-partition-labels) |
 | [0807-custom-sort-string](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0807-custom-sort-string) |
