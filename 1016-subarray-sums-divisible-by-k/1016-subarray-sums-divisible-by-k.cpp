@@ -4,7 +4,7 @@ public:
         int n=nums.size(), count=0,mod, currSum=0;
 
         //Lets keep modulo as key, and count as value
-        unordered_map<int,int> freqMod;
+        vector<int> freqMod(k,0);
         
         freqMod[0]++;// Empty array 
 
@@ -14,7 +14,6 @@ public:
             mod=currSum%k;
             if(mod<0) mod+=k;
 
-            if(freqMod.find(mod)!=freqMod.end())
             count+=freqMod[mod];
             freqMod[mod]++;
         }
