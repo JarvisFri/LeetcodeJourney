@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0768-partition-labels) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
@@ -265,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
