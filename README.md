@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0768-partition-labels) |
+| [0908-middle-of-the-linked-list](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0969-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
