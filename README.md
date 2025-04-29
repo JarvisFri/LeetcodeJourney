@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0969-number-of-recent-calls) |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -246,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1016-subarray-sums-divisible-by-k) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
