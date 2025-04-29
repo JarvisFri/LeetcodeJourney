@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0994-prison-cells-after-n-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0994-prison-cells-after-n-days) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
 | [1483-rank-teams-by-votes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1483-rank-teams-by-votes) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0807-custom-sort-string) |
 | [0994-prison-cells-after-n-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0994-prison-cells-after-n-days) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
 | [1483-rank-teams-by-votes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1483-rank-teams-by-votes) |
 ## Greedy
@@ -239,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
