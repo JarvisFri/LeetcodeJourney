@@ -14,16 +14,15 @@ public:
     vector<vector<int>> levelOrder(TreeNode* root) {
 
         vector<vector<int>> ans;
-        vector<int> currLevel;
         queue<TreeNode*> currQ;
-        int levelCount=0, maxElt=1, currQSize=0;
+        int currQSize=0;
         
         
         if (root!=NULL) currQ.push(root);
         
         while(!currQ.empty()){
+            vector<int> currLevel;
             currQSize=currQ.size();
-            currLevel.clear();
             while(currQSize){
                 TreeNode* temp=currQ.front();
 
@@ -39,11 +38,9 @@ public:
                 currQSize--;
                 
             }
-            if(!currLevel.empty()) ans.push_back(currLevel);
+            ans.push_back(currLevel);
         
         }
-        
-        
 
         return ans;
     }
