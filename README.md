@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
 | [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0994-prison-cells-after-n-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0994-prison-cells-after-n-days) |
@@ -148,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
+| [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -312,4 +316,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
