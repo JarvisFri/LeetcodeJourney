@@ -34,6 +34,9 @@ public:
                     temp[i]='a'+j;
                     if(visited.find(temp)==visited.end() && dictionary.find(temp)!=dictionary.end()){
                         q.push(temp);
+                        //optimization: early exit
+                        if(temp==endWord)
+                        return level+2;
                     }
                 }
             }
