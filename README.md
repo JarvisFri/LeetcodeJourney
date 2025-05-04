@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0542-01-matrix) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 ## Bit Manipulation
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0133-clone-graph) |
+| [0542-01-matrix](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
 ## Binary Tree
