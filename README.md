@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0744-network-delay-time) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0744-network-delay-time) |
 ## Counting
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0744-network-delay-time) |
 | [1117-as-far-from-land-as-possible](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1117-as-far-from-land-as-possible) |
 ## Binary Tree
 |  |
@@ -327,10 +330,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0744-network-delay-time) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
