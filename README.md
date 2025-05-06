@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0213-house-robber-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0406-queue-reconstruction-by-height) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
