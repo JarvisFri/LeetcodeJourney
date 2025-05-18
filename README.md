@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0357-count-numbers-with-unique-digits) |
