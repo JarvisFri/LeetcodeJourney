@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0213-house-robber-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0189-rotate-array) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
 | [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0768-partition-labels) |
