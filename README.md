@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1483-rank-teams-by-votes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1483-rank-teams-by-votes) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Backtracking
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
 | [1117-as-far-from-land-as-possible](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1117-as-far-from-land-as-possible) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Design
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Queue
 |  |
 | ------- |
