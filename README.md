@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1117-as-far-from-land-as-possible](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1117-as-far-from-land-as-possible) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1483-rank-teams-by-votes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1483-rank-teams-by-votes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Backtracking
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0621-task-scheduler) |
 | [0807-custom-sort-string](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0807-custom-sort-string) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1483-rank-teams-by-votes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1483-rank-teams-by-votes) |
 ## Heap (Priority Queue)
 |  |
