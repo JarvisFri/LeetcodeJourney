@@ -1,33 +1,36 @@
 class Solution {
 public:
-    //Approach Find First and Last Occurance of target
-    //
-    int bsFirst(vector<int>& nums, int target){
-        int lo=0, hi=nums.size()-1;
-        int mid;
+    vector<int> searchRange(vector<int>& nums, int target) {
+        //First Position
+        //p(x): x>=target
+        //FFF*TTT* : First T
+
+        if(nums.size()==0) return {-1,-1};
+        
+        int lo=0, hi=nums.size()-1, mid;
 
         while(lo<hi){
             mid=lo+(hi-lo)/2;
-
-            if(nums[mid]<target){
-                lo=mid+1;
-            }else{
+            if(nums[mid]>=target){
                 hi=mid;
+            }else{
+                lo=mid+1;
             }
         }
 
-        if(nums[lo]==target) 
-            return lo;
-        return -1;
-    }
+        if(nums[lo]!=target) return {-1,-1};
 
-    int bsLast(vector<int>& nums, int target){
-        int lo=0, hi=nums.size()-1;
-        int mid;
+        int ans1=lo;
+
+
+        //Last position
+        //p(x): x<=Target
+        //TTT*FFF*: Last T
+
+        lo=0, hi=nums.size()-1;
 
         while(lo<hi){
             mid=lo+(hi-lo+1)/2;
-
             if(nums[mid]<=target){
                 lo=mid;
             }else{
@@ -35,16 +38,9 @@ public:
             }
         }
 
-        if(nums[lo]==target) 
-            return lo;
-        return -1;
-    }
+        int ans2=lo;
 
-    vector<int> searchRange(vector<int>& nums, int target) {
-        if (nums.size()==0) return {-1,-1};
-        int first=bsFirst(nums,target);
-        if (first==-1) return {-1,-1};
-        int last=bsLast(nums, target);
-        return {first,last};
+        return {ans1, ans2};
+
     }
 };
