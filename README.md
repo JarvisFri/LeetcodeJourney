@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0268-missing-number) |
 | [0994-prison-cells-after-n-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0994-prison-cells-after-n-days) |
 ## Math
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0357-count-numbers-with-unique-digits) |
 | [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
 | [0797-rabbits-in-forest](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0797-rabbits-in-forest) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0554-brick-wall](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0554-brick-wall) |
@@ -263,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0435-non-overlapping-intervals) |
