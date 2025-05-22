@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-prison-cells-after-n-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0994-prison-cells-after-n-days) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1034-subarrays-with-k-different-integers) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1117-as-far-from-land-as-possible](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1117-as-far-from-land-as-possible) |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1262-online-majority-element-in-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1262-online-majority-element-in-subarray) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Backtracking
