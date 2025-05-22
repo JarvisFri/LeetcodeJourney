@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0213-house-robber-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0334-increasing-triplet-subsequence](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0334-increasing-triplet-subsequence) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0400-nth-digit) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0130-surrounded-regions) |
+| [0240-search-a-2d-matrix-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0695-max-area-of-island) |
 | [1117-as-far-from-land-as-possible](https://github.com/JarvisFri/LeetcodeJourney/tree/master/1117-as-far-from-land-as-possible) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/JarvisFri/LeetcodeJourney/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
 | ------- |
