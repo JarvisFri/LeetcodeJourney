@@ -1,35 +1,33 @@
 class Solution {
 public:
-    //Decision: Include/Exclude, Subsets which include first elt and which dont
-    //Subproblem: Suffix array: f(arr, i)
-    //Recurrance relation:f(arr,i)=f(arr,i+1) U f(arr,i+1)
-    //Base case: i=n 
 
-    void f(vector<int>& nums, int startIdx, vector<int> &currSet, vector<vector<int>>& result){
-        //Base case
+    //Decision: to include to exclude first elt
+    //SubProblem: Suffix array f(arr,i)
+    //f(arr, i)=f(arr,i+1)+i U f(arr, i+1)
+    //base i==n
+
+    void f(vector<int> &nums,int startIdx, vector<int>&curr,vector<vector<int>> &res ){
         int n=nums.size();
+        //Base
         if(startIdx==n){
-            result.push_back(currSet);
+            res.push_back(curr);
             return;
         }
 
-        //Recurrive step:
-        //Include:
-        currSet.push_back(nums[startIdx]);
-        f(nums, startIdx+1,currSet,result);
-        currSet.pop_back();
+        //Recurrsive
+        //Include
+        curr.push_back(nums[startIdx]);
+        f(nums, startIdx+1, curr, res);
+        curr.pop_back();
 
-        //Exclude:
-        f(nums, startIdx+1,currSet, result);
-
+        //Exclude
+        f(nums,startIdx+1, curr, res);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        
-        vector<vector<int>> result;
-        vector<int> currSet;
+        vector<int> curr;
+        vector<vector<int>> res;
+        f(nums, 0, curr, res);
 
-        f(nums, 0, currSet, result);
-
-        return result;
+        return res;
     }
 };
