@@ -1,33 +1,37 @@
 class Solution {
 public:
 
-    //Decision: to include to exclude first elt
-    //SubProblem: Suffix array f(arr,i)
-    //f(arr, i)=f(arr,i+1)+i U f(arr, i+1)
-    //base i==n
+    //Enumeration: Backtracking
+    //Decision: Either we include the ith elt in our curr set or not
+    //Subproblem: Solutions that include ith elt in sub set and ones that dont
+    //Problem and subproblem relation: f(nums, i)=i+f(nums, i+1) U f(nums, i+1)
+    //Base case i=n
 
-    void f(vector<int> &nums,int startIdx, vector<int>&curr,vector<vector<int>> &res ){
+    vector<vector<int>> f(vector<int>&nums, int i){
         int n=nums.size();
-        //Base
-        if(startIdx==n){
-            res.push_back(curr);
-            return;
+        //Base Case
+        if(i==n)
+        return {{}};//Empty set
+
+        //Recurrance
+        
+        vector<vector<int>> temp=f(nums, i+1);
+        //Exclude ith elt
+        vector<vector<int>> ans=temp;
+
+        //Include ith elt
+        for(auto subset:temp ){
+            subset.push_back(nums[i]);
+            ans.push_back(subset);
         }
 
-        //Recurrsive
-        //Include
-        curr.push_back(nums[startIdx]);
-        f(nums, startIdx+1, curr, res);
-        curr.pop_back();
+        return ans;
 
-        //Exclude
-        f(nums,startIdx+1, curr, res);
     }
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> curr;
-        vector<vector<int>> res;
-        f(nums, 0, curr, res);
 
-        return res;
+
+
+    vector<vector<int>> subsets(vector<int>& nums) {
+        return f(nums, 0);
     }
 };
