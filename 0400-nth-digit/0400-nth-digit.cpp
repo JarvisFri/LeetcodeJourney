@@ -1,29 +1,30 @@
 class Solution {
 public:
-    //calculate i ie no digits of num where nth digit lies
-    //sumDigit+=i*9*pow(10,i)
     int findNthDigit(int n) {
-        long long i=0, sum_digit=0, n_rem=0,digit=0,ans=0;
-
-        while(sum_digit<n){
-            i++;
-            sum_digit+=i*9*pow(10,i-1);
+        //Find in how many digit no does n lie
+        //1-9: 9, 10-99: 90*2, ..
+        int currDigit=1;
+        long long numTillDigit=0;
+        while(numTillDigit<n){
+            numTillDigit+=9*(pow(10,currDigit-1))*currDigit;
+            currDigit++;
         }
-        //here sum_digit> n so
-        sum_digit-=i*9*pow(10,i-1);
-        //now
-        n_rem=n-sum_digit;
-        int mod=n_rem%i;
-        if(mod==0){
-            digit=pow(10,i-1)+n_rem/i-1;
-            ans=digit%10;
-        }else{
-            digit=pow(10,i-1)+n_rem/i ;
-            
-            ans=digit/(pow(10,i-mod));
-            ans=ans%10;
+        currDigit--;//Now it points to currDigit for numTillDigit
+        //Now numTillDigit > n
+        //So we reduce once
+        numTillDigit-=9*(pow(10, currDigit-1))*currDigit;
+        int rem=n-numTillDigit;
+        // So n lies in rem which has currDigit digits
+        //Which num contains n?
+        int num=pow(10,currDigit-1) +(rem-1)/currDigit;
+        //Which place from left in num?
+        int place=(rem-1)%currDigit;
+        int ans=0;
+        for(int j=currDigit; j>place; j--){
+            ans=num%10;
+            num=num/10;
         }
-
         return ans;
+
     }
 };
