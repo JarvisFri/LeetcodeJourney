@@ -1,37 +1,33 @@
 class Solution {
 public:
-    vector<vector<int>> palMemo;
-    vector<int> dp;
-
-    bool isPalindrome(string &s, int i, int j){
-        if(palMemo[i][j] != -1) return palMemo[i][j];
-        int l = i, r = j;
-        while(l < r){
-            if(s[l] != s[r]) return palMemo[i][j] = 0;
-            l++;
-            r--;
-        }
-        return palMemo[i][j] = 1;
-    }
-
-    int dfs(string &s, int i){
-        int n = s.size();
-        if(i == n) return -1; // No cut needed after the last character
-        if(dp[i] != -1) return dp[i];
-
-        int minCuts = n;
-        for(int j = i; j < n; ++j){
-            if(isPalindrome(s, i, j)){
-                minCuts = min(minCuts, 1 + dfs(s, j + 1));
-            }
-        }
-        return dp[i] = minCuts;
-    }
-
     int minCut(string s) {
         int n = s.size();
-        palMemo.assign(n, vector<int>(n, -1));
-        dp.assign(n, -1);
-        return dfs(s, 0);
+        vector<vector<bool>> isPal(n, vector<bool>(n, false));
+        vector<int> dp(n, 0);
+
+        // Precompute palindromes
+        for (int i = n - 1; i >= 0; --i) {
+            for (int j = i; j < n; ++j) {
+                if (s[i] == s[j] && (j - i < 2 || isPal[i + 1][j - 1])) {
+                    isPal[i][j] = true;
+                }
+            }
+        }
+
+        // Bottom-up DP
+        for (int i = 0; i < n; ++i) {
+            if (isPal[0][i]) {
+                dp[i] = 0;
+            } else {
+                dp[i] = i;
+                for (int j = 1; j <= i; ++j) {
+                    if (isPal[j][i]) {
+                        dp[i] = min(dp[i], dp[j - 1] + 1);
+                    }
+                }
+            }
+        }
+
+        return dp[n - 1];
     }
 };
