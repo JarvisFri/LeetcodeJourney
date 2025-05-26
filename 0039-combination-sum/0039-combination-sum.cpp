@@ -1,63 +1,39 @@
 class Solution {
 public:
-    //Decision: Include : f(arr, i, target1, curr,res)
-    //          Exclude : f(arr,i+1, target2,curr,res)
-    //Subproblem/ Recurrsive step:
-    //          Include: curr.pushback(i) -> f(arr, i, target-i,curr res)
-    //          Exclude: f(arr, i+1, target)
-    //Reccurrance:
-    //          f(arr,i, target-i)=include +exclude
-    //Base Case:
-    //  `       if(target=0)-> ans.push(curr)
-    //          if(target<0)-> return
-    //          if(i==n)-> return //target ==0 is handled already
-    //Prunning: 
-    //          If currSum > target
-    void f(vector<int> & arr, int i, int target, vector<int> &curr,vector<vector<int>>&res, int sum, int original_target){
-
-        //Base Case
-        int n=arr.size();
+    //Decision: Include or Exclude ith idx
+    //Subproblem: Suffix array
+    //Problem: Include Subproblem + Exclude Subproblem
+    //Base: Positive: Sum equals target, Negative: Sum greater then target or i==n
+    
+    void f(vector<int>& candidates,int i, int target, vector<int> & currSet, vector<vector<int>> &res){
+        int n=candidates.size();
+        //Base
         //Positive
         if(target==0){
-            res.push_back(curr);
+            res.push_back(currSet);
             return;
         }
-
         //Negative
-        if(i==n || target<0){
+        if(target<0 || i==n ){
             return;
         }
 
-        //Prunning
-        if(sum>original_target) return;
-
-        //Recurrance
-        //Exclude
-        f(arr, i+1,target, curr, res, sum, original_target);
+        //Recurrsive
         //Include
-        curr.push_back(arr[i]);
-        sum+=arr[i];
-        // cout<<"Sum"<<sum<<endl;
-        // for(auto k:curr){
-        //     cout<<k<<" ";
-        // }
-        // cout<<endl;
+        currSet.push_back(candidates[i]);
+        f(candidates,i,target-candidates[i],currSet, res);
+        currSet.pop_back();
 
-        f(arr,i,target-arr[i],curr,res,sum, original_target);
-        // sum-=arr[i];
-        curr.pop_back();
-
-        return;
-
+        //Exclude
+        f(candidates, i+1, target, currSet, res);
     }
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        
-        vector<vector<int>>res;
-        vector<int>curr;
-        
-        f(candidates,0,target,curr,res,0,target);
-        return res;
 
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> res;
+        vector<int> currSet;
+
+        f(candidates,0, target, currSet, res);
+
+        return res;
     }
 };
-
