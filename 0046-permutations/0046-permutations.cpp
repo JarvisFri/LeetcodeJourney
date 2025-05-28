@@ -1,38 +1,35 @@
 class Solution {
 public:
-    //Decision: N different type of Solution for N elt in array
-    //Divide problem in n solution: s(i) has a(i) as first elt and so on.
-    //create a visited array and i
-    //Base case:i==n
+    //All elt are distinct
+    //Decision: Permutations starting with elt and mark them visited keeping visited array
+    //Subproblem: Visited array stores if an idx is visited
+    //Base case: i==n
 
-    void f(vector<int>& nums, int i, vector<int> &visited, vector<int> &curr, vector<vector<int>> &res ){
-        //Base case
+    void f(vector<int> &nums, vector<int> &visited,vector<int> & currSet, vector<vector<int>> & res){
         int n=nums.size();
+        int i=currSet.size();
+        //Base
         if(i==n){
-            res.push_back(curr);
-            return;
+            res.push_back(currSet);
         }
-        //Recurrance
+
+        //Recurrance: Permutatations starting with a elt
         for(int j=0; j<n; j++){
-            if(!visited[j]){
-                visited[j]=1;
-                curr.push_back(nums[j]);
-                f(nums, i+1, visited,curr, res);
-                curr.pop_back();
-                visited[j]=0;
-            }
-            
+            if(visited[j]) continue;
+            currSet.push_back(nums[j]);
+            visited[j]=1;
+            f(nums,visited, currSet, res);
+            visited[j]=0;
+            currSet.pop_back();
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> res; 
-        vector<int> curr;
+        int n=nums.size();
+        vector<int> visited(n,0);
+        vector<int> currSet;
+        vector<vector<int>>res;
 
-        vector<int> visited(nums.size(),0);
-
-
-        f(nums, 0, visited,curr,res);
+        f(nums, visited, currSet, res);
         return res;
-        
     }
 };
