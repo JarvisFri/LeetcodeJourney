@@ -1,84 +1,83 @@
 class MajorityChecker {
 public:
-    map< int , vector<int>> freqArray;
-    vector<int> & array;
-    MajorityChecker(vector<int>& arr):array(arr) {
-        for(int i=0; i<arr.size(); i++){
-            freqArray[arr[i]].push_back(i);
+    unordered_map<int, vector<int>> elt_idxs;
+    vector<int> nums;
+    MajorityChecker(vector<int>& arr) {
+        //Copy arr in nums
+        nums=arr;
+        for(int i=0; i<nums.size();i++){
+            elt_idxs[nums[i]].push_back(i);
         }
-        
-        
     }
-    //Function to find of index equal or greater then left
-    int bsLeft(vector<int> & nums, int left ){
+    //Keep an unordered map of elt as key and value as indexes 
+    //For each query look for left and right most idx in idx array
+    //array say 50 times and check if its majority if yes, return that elt or -1 if false
+    //apply bs to check majority
 
-        int lo=0, hi=nums.size()-1,mid;
+    //Search for idx >=left
+    int  bs_left(int elt,int left ){
+        int n=elt_idxs[elt].size();
+        int lo=0, hi=n-1, mid;
         while(lo<hi){
             mid=lo+(hi-lo)/2;
-            if(nums[mid]>=left){
-                hi=mid;
-            }else{
+
+            if(elt_idxs[elt][mid]<left){
                 lo=mid+1;
+            }else{
+                hi=mid;
             }
         }
-        if(nums[lo]>=left) return lo;
+        if(elt_idxs[elt][lo]>=left)
+            return lo;
         return -1;
-
     }
-    //Function to find of index equal or smaller then right
-    int bsRight(vector<int> &nums, int right){
-        int lo=0, hi=nums.size()-1,mid;
+    int  bs_right(int elt,int right ){
+        int n=elt_idxs[elt].size();
+        int lo=0, hi=n-1, mid;
         while(lo<hi){
             mid=lo+(hi-lo+1)/2;
-            if(nums[mid]<=right){
-                lo=mid;
-            }else{
+
+            if(elt_idxs[elt][mid]>right){
                 hi=mid-1;
+            }else{
+                lo=mid;
             }
         }
-        if(nums[lo]<=right) return lo;
+        if(elt_idxs[elt][lo]<=right)
+            return lo;
         return -1;
     }
-    int isMajority(int left, int right, int threshold, int n){
-        int leftIdx,rightIdx;
-        // for(auto freq:freqArray){
-            
-            leftIdx=bsLeft(freqArray[n],left);
-            rightIdx=bsRight(freqArray[n], right);
-            // cout<<leftIdx<< " "<<rightIdx;
-            if(rightIdx!=-1 && leftIdx!=-1)
-            if((rightIdx-leftIdx+1)>=threshold) return n;
 
-        // }
-        return -1;
+    int majority_helper(int idx,int left, int right){
+        //Find the left most and right most elts
+        int elt=nums[idx];
+        int lo=bs_left(elt,left);
+        if(lo==-1)
+            return 0;
+        int hi=bs_right(elt,right);
+        return hi-lo+1;
+
+
     }
-    
-    void printFreqArray() {
-            for (const auto& pair : freqArray) {
-                std::cout << "Element: " << pair.first << " Indices: ";
-                for (int index : pair.second) {
-                    std::cout << index << " ";
-                }
-                std::cout << std::endl;
-            }
-    }
 
     int query(int left, int right, int threshold) {
-
-        int randElt,ans;
+        //Pick a random elt in betwwen left and right
         srand(time(0));
 
-        for (int i=0; i<50; i++){
-            randElt=left+rand()%(right-left+1);
-            ans=isMajority(left,right,threshold,array[randElt]);
-            if(ans!=-1) return ans;
+        int idx;
+        for(int i=0; i<100; i++){
+            //Pick random idx between left and right
+            idx=left+rand()%(right-left+1);
+            //Check if that idx elt is majority ie greater than threshold
+            if(majority_helper(idx,left,right)>=threshold)
+                return nums[idx];
+
+            
 
         }
+
         return -1;
 
-        
-        // printFreqArray();
-        
         
     }
 };
